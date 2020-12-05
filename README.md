@@ -1,1 +1,1 @@
-# crispy-broccoli-html5
+# Gdevelop's "Space Shooter" example exported with HTML5
